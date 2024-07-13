@@ -1,0 +1,78 @@
+[
+{
+  "id": "1",
+  "sectionName": "Flutter & Dart Basics",
+  "sectionDescription": "Time to practice with some of the Flutter & Dart basics you gained up to this point.",
+  "duration": 251,
+  "isMainTask": false,
+  "image": "https://www.intelvue.com/wp-content/uploads/2020/10/Dart-vs-Flutter-1200x720.jpg"
+},
+{
+  "id": "2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxL_UJITrbzW0GKRoVrUAr90pil1Xffnpe69oCFjFGYg&s",
+  "sectionName": "Building Responsive & Adaptive User Interfaces",
+  "sectionDescription": "Building Responsive & Adaptive User Interfaces [EXPENSE TRACKER APP]",
+  "duration": 323,
+  "isMainTask": true
+  
+},
+{
+  "id": "3",
+  "image": "https://www.freecodecamp.org/news/content/images/2023/04/Types-of-Navigations-in-Flutter---Banner.png",
+  "sectionName": "Building Multi-Screen Apps & Navigating Between Screens",
+  "sectionDescription": "Building Multi-Screen Apps & Navigating Between Screens",
+  "duration": 214,
+  "isMainTask": true
+},
+{
+  "id": "4",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThM5y_OT7Ha5dAoURYYXbbvH6zqkbn-O6dRHQpLZOquusYsWWU8HxedR96eyk4d_fk3bA&usqp=CAU",
+  "sectionName": "Working with Express.js",
+  "sectionDescription": "Time for the second assignment of this module, are you ready?",
+  "duration": 160,
+  "isMainTask": true
+},
+{
+  "id": "5",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQlm18CeR8PCu4ebpBJZbwlFb1IVg3iXtwVWLJbU1VA&s",
+  "sectionName": "Working with Dynamic Content & Adding Templating Engines",
+  "sectionDescription": "We learned a lot about Pug, Handlebars and EJS so let's see if we know how to use these templating engines now!",
+  "duration": 321,
+  "isMainTask": false
+  
+},
+{
+  "id": "6",
+  "image": "https://media.techmaster.vn/api/static/c5l7m5fk0cmm38nmgv2g/waWYvXDb",
+  "sectionName": "Hibernate, JPA and JDBC",
+  "sectionDescription": "Hibernate, JPA and JDBC",
+  "duration": 144,
+  "isMainTask": true
+  
+},
+{
+  "id": "7",
+"image": "https://miro.medium.com/v2/resize:fit:662/1*s1Cho4SgMxrN7rRaIBCYng.jpeg",
+  "sectionName": "REST API",
+  "sectionDescription": "Spring Boot REST: Spring Data REST",
+  "duration": 179,
+  "isMainTask": true
+  
+},
+{
+  "id": "8",
+"image": "https://static.javatpoint.com/tutorial/reactjs/images/reactjs-features.png",
+  "sectionName": "React Basics & Working With Components",
+  "sectionDescription": "In this course module, you learned about key React features which you must know for every React app you're going to build! Hence it's time to check what you learned and verify that we're all on the same page!",
+  "duration": 130,
+  "isMainTask": true
+},
+{
+  "id": "9",
+"image": "https://bosctechlabs.com/wp-content/uploads/2022/06/React-State-vs-Props-Introduction-and-Differences.jpg",
+  "sectionName": "React State & Working with Events",
+  "sectionDescription": "Time to practice what you learned about events and state in React apps.",
+  "duration": 210,
+  "isMainTask": true
+}
+]
